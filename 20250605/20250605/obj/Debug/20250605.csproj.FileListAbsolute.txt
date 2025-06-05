@@ -1,0 +1,11 @@
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.csproj.AssemblyReference.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\_20250605.Form1.resources
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\_20250605.Properties.Resources.resources
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.csproj.GenerateResource.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.csproj.CoreCompileInputs.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\bin\Debug\20250605.exe.config
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\bin\Debug\20250605.exe
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\bin\Debug\20250605.pdb
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.exe
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.pdb
+D:\Class\class2568\ครูปวันรัตน์\learning\20250605\20250605\obj\Debug\20250605.exe.config
