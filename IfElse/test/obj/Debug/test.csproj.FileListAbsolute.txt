@@ -1,0 +1,11 @@
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.Form1.resources
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\bin\Debug\test.exe.config
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\bin\Debug\test.exe
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\bin\Debug\test.pdb
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.exe
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.pdb
+D:\Class\class2568\ครูปวันรัตน์\learning\test\test\obj\Debug\test.exe.config
